@@ -1,0 +1,10 @@
+
+h1{
+    text-align: center;
+    color: rgb(223, 198, 169);
+    font-family: 'Lobster', cursive;
+}
+.mapcontainer {
+    width: 900px;
+    margin: 0 auto 0 auto;
+}
